@@ -1,2 +1,2 @@
-# Deep_Learning
-Andrew Ng Deep Learning Course (Notes+Code)
+# Deep Learning
+Andrew Ng Deep Learning Coursera Course (Notes+Code)
